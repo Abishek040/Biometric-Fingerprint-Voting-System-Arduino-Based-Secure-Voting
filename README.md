@@ -87,7 +87,9 @@ This project is a **biometric-based voting system** that uses a fingerprint sens
 
 ## ?? Code
 
-The Arduino code is available in: fingerprint_voting_system.ino
+The Arduino code is available in: 
+
+[fingerprint_voting_system.ino](./fingerprint_voting_system.ino)
 
 
 Upload it using Arduino IDE after installing required libraries.
